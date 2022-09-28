@@ -9,7 +9,8 @@ Special thanks to <a href="https://twitter.com/BrieCodes/" target="_blank">Brie 
 <a href="https://join.slack.com/t/salesforce-mentoring/shared_invite/zt-1g5jdkfcz-kwh3koMw0~1yZKpw9YWtFQ" target="_blank">Join our mentorship slack group!</a>
 
 
-## Salesforce Direct Content
+## Salesforce Direct Content 
+![](party_blob.gif)
 
 <a href="https://admin.salesforce.com/salesforce-admin-podcast" target="_blank">Admin Podcast</a>
 <br>
@@ -27,7 +28,7 @@ Special thanks to <a href="https://twitter.com/BrieCodes/" target="_blank">Brie 
 <br>
 <a href="https://veterans.force.com/s/" target="_blank">Salesforce Military</a>
 <br>
-<a href="https://www.salesforce.com/news/" target="_blank">Salesforce News/a>
+<a href="https://www.salesforce.com/news/" target="_blank">Salesforce News</a>
 <br>
 <a href="https://admin.salesforce.com/releaseinabox/" target="_blank">Salesforce Release in a Box</a>
 <br>
@@ -59,6 +60,8 @@ Special thanks to <a href="https://twitter.com/BrieCodes/" target="_blank">Brie 
 <br>
 
 ## Blogs/Articles/Websites
+![](reading.gif)
+
 <a href="https://automationhour.com/" target="_blank">Automation Hour</a>
 <br>
 <a href="https://tan-judge-eb3.notion.site/Salesforce-Best-Practices-faf559a65dcd488a92abeda6a5d1916b" target="_blank">Brie Kramer's List of Best Practices Notion</a>
@@ -96,6 +99,8 @@ Special thanks to <a href="https://twitter.com/BrieCodes/" target="_blank">Brie 
  
  
 ## YouTube Resources
+![](typingcat.gif)
+
 <a href="https://www.youtube.com/c/100DaysofTrailhead/" target="_blank">100 Days of Trailhead</a>
 <br>
 <a href="https://www.youtube.com/c/Brainiate/" target="_blank">brainiate</a>
@@ -140,6 +145,8 @@ Special thanks to <a href="https://twitter.com/BrieCodes/" target="_blank">Brie 
 <br>
  
 ## People to follow
+![](kevin-office.gif)
+
 <a href="https://twitter.com/100DayTrailhead/" target="_blank">100 Days of Trailhead</a>
 <br>
 <a href="https://twitter.com/doti/" target="_blank">Adam Doti</a>
@@ -220,7 +227,9 @@ Special thanks to <a href="https://twitter.com/BrieCodes/" target="_blank">Brie 
 <br>
   
  
-## Paid Learning
+## Paid Learning 
+![](luigi-worm.gif)
+
 <a href="https://certifiedondemand.com/" target="_blank">Certified on Demand</a>
 <br>
 <a href="https://focusonforce.com/" target="_blank">Focus on Force</a>
