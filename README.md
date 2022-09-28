@@ -1,7 +1,11 @@
 # Salesforce-Resources
 Salesforce Resources for newbies, Admins, and developers
+<br>
+Special thanks to <a href="https://twitter.com/BrieCodes/" target="_blank">Brie Kramer</a> who helped to compile these resources. 
 
-#Salesforce Direct Content
+
+
+## Salesforce Direct Content
 
 
 <a href="https://admin.salesforce.com/salesforce-admin-podcast" target="_blank">Admin Podcast</a>
@@ -26,7 +30,7 @@ Salesforce Resources for newbies, Admins, and developers
 <br>
 <a href="https://help.salesforce.com/s/articleView?id=release-notes.salesforce_release_notes.htm&type=5&release=234/" target="_blank">Salesforce Release Notes</a>
 <br>
-<a href="https://resources.docs.salesforce.com/234/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf/' target="_blank">Salesforce Security Guide (PDF)</a>
+<a href="https://resources.docs.salesforce.com/234/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf/" target="_blank">Salesforce Security Guide (PDF) </a>
 <br>
 <a href="https://trailblazer.salesforce.com/" target="_blank">Trailblazer Community</a>
 <br>
@@ -51,7 +55,7 @@ Salesforce Resources for newbies, Admins, and developers
 <a href="https://trailhead.salesforce.com/en/academy/" target="_blank">Trailhead Academy</a>
 <br>
 
-#Blogs/Articles/Websites
+## Blogs/Articles/Websites
 <a href="https://automationhour.com/" target="_blank">Automation Hour</a>
 <br>
 <a href="https://tan-judge-eb3.notion.site/Salesforce-Best-Practices-faf559a65dcd488a92abeda6a5d1916b" target="_blank">Brie Kramer's List of Best Practices Notion</a>
@@ -80,18 +84,21 @@ Salesforce Resources for newbies, Admins, and developers
 <br>
 <a href="https://www.simplysfdc.com/" target="_blank">SimplySfdc.com</a>
 <br>
-<a href="https+A38:A100://www.terrystidbits.com/" target="_blank">Terry's Tidbits</a>
+<a href="https://www.terrystidbits.com/" target="_blank">Terry's Tidbits</a>
 <br>
 <a href="https://www.kicksaw.com/blog/the-ultimate-guide-to-salesforce-flows" target="_blank">Ultimate Guide to Salesforce Flows</a>
 <br>
 <a href="https://unofficialsf.com/" target="_blank">Unofficial SF</a>
  <br>
-#YouTube
+ 
+ 
+## YouTube Resources
+<br>
 <a href="https://www.youtube.com/c/100DaysofTrailhead/" target="_blank">100 Days of Trailhead</a>
 <br>
 <a href="https://www.youtube.com/c/Brainiate/" target="_blank">brainiate</a>
 <br>
-<a href="https://www.youtube.com/c/LearnSalesforceCPQ"/ target="_blank">Learn Salesforce CPQ</a>
+<a href="https://www.youtube.com/c/LearnSalesforceCPQ/" target="_blank">Learn Salesforce CPQ</a>
 <br>
 <a href="https://www.youtube.com/channel/UCcqNe3ta2pj7jhAbvyljUVw/" target="_blank">Letterkenny Salesforce Sessions</a>
 <br>
@@ -130,7 +137,7 @@ Salesforce Resources for newbies, Admins, and developers
 <a href="https://www.youtube.com/c/TrailblazingTogether/" target="_blank">Trailblazing Together</a>
 <br>
  
-#People
+## People to follow
 <a href="https://twitter.com/100DayTrailhead/" target="_blank">100 Days of Trailhead</a>
 <br>
 <a href="https://twitter.com/doti/" target="_blank">Adam Doti</a>
@@ -139,7 +146,7 @@ Salesforce Resources for newbies, Admins, and developers
 <br>
 <a href="https://twitter.com/enginutkan/" target="_blank">Andy Engin Utkan</a>
 <br>
-<a href="https://twitter.com/BrieCodes/" target="_blank">Brie - Extension Co-Creator</a>
+<a href="https://twitter.com/BrieCodes/" target="_blank">Brie Kramer</a>
 <br>
 <a href="https://twitter.com/cecedoessfdc/" target="_blank">Cece Adams</a>
 <br>
@@ -157,7 +164,7 @@ Salesforce Resources for newbies, Admins, and developers
 <br>
 <a href="https://twitter.com/ericdresh/" target="_blank">Eric Dreshfield</a>
 <br>
-<a href="https://twitter.com/gagestaruch/" target="_blank">Gage - Extension Creator</a>
+<a href="https://twitter.com/gagestaruch/" target="_blank">Gage Staruch</a>
 <br>
 <a href="https://twitter.com/gilliankbruce/" target="_blank">Gillian Bruce</a>
 <br>
@@ -171,7 +178,7 @@ Salesforce Resources for newbies, Admins, and developers
 <br>
 <a href="https://twitter.com/MeighanSF/" target="_blank">Meighan Brodkey</a>
 <br>
-<a href="https://twitter.com/michaelforce target="_blank">Michael Farrington</a>
+<a href="https://twitter.com/michaelforce/" target="_blank">Michael Farrington</a>
 <br>
 <a href="https://twitter.com/MikeGerholdt/" target="_blank">Mike Gerholdtr</a>
 <br>
@@ -209,12 +216,9 @@ Salesforce Resources for newbies, Admins, and developers
 <br>
 <a href="https://twitter.com/Trailhead/" target="_blank">Trailhead</a>
 <br>
+  
  
- 
- 
- 
- 
-#Paid Learning
+## Paid Learning
 <a href="https://certifiedondemand.com/" target="_blank">Certified on Demand</a>
 <br>
 <a href="https://focusonforce.com/" target="_blank">Focus on Force</a>
