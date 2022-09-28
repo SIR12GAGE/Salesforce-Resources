@@ -2,11 +2,14 @@
 Salesforce Resources for newbies, Admins, and developers
 <br>
 Special thanks to <a href="https://twitter.com/BrieCodes/" target="_blank">Brie Kramer</a> who helped to compile these resources. 
+<br>
+![](mario_luigi_dance.gif)
+<br>
 
+<a href="https://join.slack.com/t/salesforce-mentoring/shared_invite/zt-1g5jdkfcz-kwh3koMw0~1yZKpw9YWtFQ" target="_blank">Join our mentorship slack group!</a>
 
 
 ## Salesforce Direct Content
-
 
 <a href="https://admin.salesforce.com/salesforce-admin-podcast" target="_blank">Admin Podcast</a>
 <br>
@@ -93,7 +96,6 @@ Special thanks to <a href="https://twitter.com/BrieCodes/" target="_blank">Brie 
  
  
 ## YouTube Resources
-<br>
 <a href="https://www.youtube.com/c/100DaysofTrailhead/" target="_blank">100 Days of Trailhead</a>
 <br>
 <a href="https://www.youtube.com/c/Brainiate/" target="_blank">brainiate</a>
